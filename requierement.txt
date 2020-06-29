@@ -1,0 +1,8 @@
+### ASR ###
+librosa
+
+### TTS ###
+#! pip install tensorboardX
+#! pip install tensorboard
+#! pip install unidecode
+#! pip install inflect
